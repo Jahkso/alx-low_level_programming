@@ -10,7 +10,7 @@ void print_alphabet(void)
 
 {
 
-		Char c;
+		char c;
 
 
 
@@ -18,7 +18,7 @@ void print_alphabet(void)
 
 					{
 
-								_putchar©;
+								_putchar(c);
 
 									}
 
