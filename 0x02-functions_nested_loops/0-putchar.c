@@ -3,12 +3,9 @@
 
 
 /**
- *
- *  * main - print putchar
- *
- *   * Return: always 0
- *
- *    */
+ * main - print putchar
+ * Return: always 0
+  */
 
 
 
