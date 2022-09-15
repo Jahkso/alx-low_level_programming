@@ -14,7 +14,7 @@ void print_alphabet(void)
 
 
 
-			For (c = ‘a’; c <= ‘z’; c++)
+			for (c = ‘a’; c <= ‘z’; c++)
 
 					{
 
